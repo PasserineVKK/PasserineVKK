@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=400&color=0:9796F0,100:FAC7D5&text=Cheers%20to%20the%20youngest%20I%E2%80%99ll%20ever%20be!-nl-Cheers%20to%20the%20most%20grown-up%20I%E2%80%99ve%20ever%20been!%20%20-nl-_________________________&fontSize=38&animation=fadeIn&fontAlignY=42&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&color=0:9796F0,100:FAC7D5&text=Cheers%20to%20the%20youngest%20I’ll%20ever%20be!-nl-Cheers%20to%20the%20most%20grown-up%20I’ve%20ever%20been!%20%20-nl-__%20__%20__&fontSize=38&animation=fadeIn&fontAlignY=42&fontColor=fff)
 ### Hi, I'm Passerine (Vang Khanh Khuyen)
 
 I'm a **Software Engineering student at FPT University**, currently pursuing my path toward becoming a **Business Analyst**.
