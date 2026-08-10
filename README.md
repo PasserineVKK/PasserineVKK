@@ -23,9 +23,16 @@ I enjoy **finding problems, understanding why they happen, and figuring out how 
 * **Research and evidence-based problem solving**
 
 
+## Contacts
 
----
+<a href="https://www.facebook.com/batquy.quan.1?locale=vi_VN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=diechahien@gmail.com">
+  <img src="https://img.shields.io/badge/Email_1-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=khuyenvkse200481@fpt.edu.vn">
+  <img src="https://img.shields.io/badge/Email_2-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="tel:+84702946163"><img src="https://img.shields.io/badge/Phone-9796F0?style=flat-square&logo=phone&logoColor=white" alt="Phone"></a>
 
-> *"I like turning problems into requirements, and requirements into solutions."*
+
+
 
 ![sign](assets/sign.png)
